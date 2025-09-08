@@ -45,3 +45,9 @@ Synchronization → Prevents race conditions when multiple clients send messages
 Ensure both ChatServer.java and ChatClient.java are in the same folder.
 Run the server first before starting any clients.
 If running on different machines, replace localhost in ChatClient.java with the server's IP address.
+
+## License
+
+This is a learning-focused, beginner-friendly project.  
+Feel free to adapt, enhance, or repurpose it for your needs, job interviews, or skill-building.
+
